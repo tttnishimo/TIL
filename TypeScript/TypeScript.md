@@ -1,5 +1,7 @@
+```ts:foo.ts
 const getLength = (text: string) => {
-  return text.lenght;
+  return text.length;
 };
 
 getLength("hello");
+```
